@@ -22,8 +22,8 @@ start_keyboard = [
         InlineKeyboardButton(text='🎲下注(开发中)🎲', callback_data='dice'),
     ],
     [
-        InlineKeyboardButton(text='Ver:20230924.1 main',
-                             url='https://github.com/v2boardbot/v2boardbot')
+        InlineKeyboardButton(text='机场官网',
+                             url='https://df810594c639v.cloudfront.net')
     ]
 ]
 keyboard_admin = [
