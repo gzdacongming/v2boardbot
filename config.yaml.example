@@ -7,6 +7,11 @@ BOWLING:
 BULLSEYE:
   rate: 1.1
   switch: false
+DATABASE:
+  database:
+  host:
+  password:
+  user: 
 DICE:
   rate: 1.96
   switch: true
@@ -16,12 +21,23 @@ FOOTBALL:
 GAME:
   switch: true
 TELEGRAM:
+  admin_telegram_id: 
   checkin: 200|500
   delete_message: 60
+  keyword_reply:
+    "\u7ED1\u5B9A": /bind
   lucky: 200|500
-  title: "\u5C0A\u656C\u7684\u7528\u6237\uFF0C\u6B22\u8FCE\u4F7F\u7528anydoor机场\n\
-      \u9879\u76EE\u5730\u5740:https://anydoor.cloudns.ch\n\"\u6625\u98CE\
-      \u4E0D\u5199\u5931\u610F\uFF0C\u68A6\u9192\u4ECD\u5BFB\u65E7\u5FC6\u3002\""
+  new_members: verify
+  title: "\u5C0A\u656C\u7684\u7528\u6237\uFF0C\u6B22\u8FCE\u4F7F\u7528anydoor\u673A\
+    \u573A\n\u9879\u76EE\u5730\u5740:https://anydoor.cloudns.ch\n\"\u6625\u98CE\u4E0D\
+    \u5199\u5931\u610F\uFF0C\u68A6\u9192\u4ECD\u5BFB\u65E7\u5FC6\u3002\""
+  token: 
 TIGER:
   rate: 20
   switch: true
+WEBSITE:
+  email: 
+  password: 
+  suburl: https://df810594c639v.cloudfront.net
+  suffix: 
+  url: https://anydoor.cloudns.ch
